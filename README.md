@@ -1,6 +1,11 @@
+
 # 🥔 Potato Leaf Disease Detector
 
 A machine learning-powered web application for detecting diseases in potato leaves using computer vision. This project uses a fine-tuned ResNet18 model to classify potato leaf images into three categories: Early Blight, Healthy, and Late Blight.
+
+## 🌟 Live Demo
+
+**🔗 [Try the app live on Hugging Face Spaces!](https://huggingface.co/spaces/fahmidhasan/Potato-Leaf-Disease-Detector)**
 
 ## 🚀 Features
 
